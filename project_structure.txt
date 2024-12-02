@@ -1,0 +1,11 @@
+study-forest/
+├── src/
+│   ├── main/
+│   │   ├── java/com/example/studyforest/
+│   │   │   ├── StudyForestApplication.java        # Main application entry point
+│   │   │   ├── controller/
+│   │   │   │   └── ForestController.java          # REST API controller
+│   │   │   ├── model/
+│   │   │   │   └── StudyData.java                 # Entity representing database table
+│   │   │   ├── repository/
+│   │   │   │   └── StudyDataRepository.java       # J
