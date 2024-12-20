@@ -15,3 +15,12 @@ Timer and tree growth visualization are implemented in JavaScript.
 AJAX calls interact with the backend to save and load data.
 Database:
 H2 (in-memory) stores study time and tree count.
+
+
+How It Works
+Plant a Tree:
+When the user clicks the "Plant a Tree" button, a small tree (brown trunk + green leaves) appears in a random position in the "forest" area.
+Grow the Tree:
+Each tree starts small, but clicking on it makes it "grow" in size. It grows both the trunk and the leaves.
+The grow class is added to the tree to increase its height and width using CSS animations.
+
