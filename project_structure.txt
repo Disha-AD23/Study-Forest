@@ -9,3 +9,15 @@ study-forest/
 │   │   │   │   └── StudyData.java                 # Entity representing database table
 │   │   │   ├── repository/
 │   │   │   │   └── StudyDataRepository.java       # J
+
+
+
+Study Forest/
+├── css/
+│   └── styles.css
+├── js/
+│   └── validation.js
+├── index.html
+├── login.html
+├── register.html
+└── profile.html
